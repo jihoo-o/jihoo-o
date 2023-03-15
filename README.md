@@ -7,6 +7,7 @@ Notion: https://soenhwa.notion.site/85c532e99d1d4bf3a6bc49fe8b2e5b2c
 <h1>Skills</h1>
 
 **FrontEnd**    
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
 ![Recoil](https://img.shields.io/badge/Recoil-000000?style=for-the-badge&logo=recoil&logoColor=white)
@@ -14,7 +15,7 @@ Notion: https://soenhwa.notion.site/85c532e99d1d4bf3a6bc49fe8b2e5b2c
 <img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
+
 
 
 **BackEnd**   
