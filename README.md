@@ -29,7 +29,8 @@ Notion: https://soenhwa.notion.site/85c532e99d1d4bf3a6bc49fe8b2e5b2c
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
 <img src="https://img.shields.io/badge/Mockitt-3904A3?style=for-the-badge&logo=Mockitt&logoColor=white">
 
-
+**Studying**   
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 
 
 
