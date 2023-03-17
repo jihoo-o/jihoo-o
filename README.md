@@ -1,6 +1,6 @@
 <h1>Hello and welcome!</h1>   
 안녕하세요. 프론트엔드 개발자 김선화입니다. <br>
-자세한 정보는 아래의 노션에 업데이트 하고 있습니다. <br>
+아래의 노션에 꾸준히 업데이트 하고 있습니다. <br>
 Notion: https://soenhwa.notion.site/85c532e99d1d4bf3a6bc49fe8b2e5b2c   
 
 
