@@ -31,6 +31,8 @@ Notion: https://soenhwa.notion.site/85c532e99d1d4bf3a6bc49fe8b2e5b2c
 
 **Studying**   
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Amazon Web Services](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 
 
 
