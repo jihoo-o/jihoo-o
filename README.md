@@ -1,7 +1,7 @@
-<h1>Greetings!</h1>
-I'm Jihoo Kim, a Front-end Engineer.
+<h1>Hi, I'm Jihoo 👋🏻</h1>
+<p>A Front-end Engineer with a passion for exploring diverse technologies. Currently, I'm interested in LLM and cloud.</p>
 
-<h1>Skills</h1>
+<h1>Skills 🍭</h1>
 <p>Here is a list of the technologies I frequently use:</p>
 <div>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white" alt="TypeScript badge">
@@ -11,5 +11,5 @@ I'm Jihoo Kim, a Front-end Engineer.
     <img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js badge">
 </div>
 
-<h1>Current Endeavors</h1>
-<p>I am presently employed at Nadoomodoo, which you can find on my GitHub account: <a href="https://github.com/seonhwakei">GitHub - Seonhwakei</a>. I have a keen interest in AWS and automation.</p>
+<h3>Studying 📚</h3>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS badge">
